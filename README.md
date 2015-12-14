@@ -1,5 +1,4 @@
 # proctorwear
-A personal digital proctor to resolve the verification bottleneck in MOOC industry.
 
 Bharat, age 26, a working professional, interested in management education, loves MOOCs for the quality of content and flexibility. He feels that the ability to choose from the best education world has to offer puts him in-charge of selection, but he is extremely concerned about recognition of his newly acquired skillset by employers. Verified certificates only verify who submitted the work, but not who did it and how it was done.
 
