@@ -1,4 +1,5 @@
-﻿using System;
+﻿using IND.Proctorwear.Common;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,6 +23,8 @@ namespace IND.Proctorwear.App.WPF.Views
         public MainWindow()
         {
             InitializeComponent();
+            var proctor = new Proctor();
+            proctor.Start();
         }
     }
 }
